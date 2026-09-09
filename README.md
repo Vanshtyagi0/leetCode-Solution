@@ -28,10 +28,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +42,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
