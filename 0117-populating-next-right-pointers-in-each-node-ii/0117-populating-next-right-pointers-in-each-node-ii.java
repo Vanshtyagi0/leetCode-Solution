@@ -24,7 +24,6 @@ class Node {
 class Solution {
     public Node connect(Node root) {
         if(root == null) return null;
-        List<List<Node>> list = new ArrayList<>();
         Queue<Node> queue = new LinkedList<>();
         
 
@@ -32,30 +31,22 @@ class Solution {
 
         while(!queue.isEmpty()){
             int size = queue.size();
+            Node prev = null;
 
-            List<Node> level = new ArrayList<>();
             for(int i = 0; i < size; i++){
                 Node node = queue.poll();
 
-                level.add(node);
+                if(prev != null){
+                    prev.next = node;
+                }
+                prev = node;
+
                 if(node.left != null) queue.offer(node.left);
                 if(node.right != null) queue.offer(node.right);
             }
 
-            list.add(level);
+            prev.next = null;
         }
-
-        for(List<Node> level : list){
-            for(int i = 0; i < level.size(); i++){
-                if(i + 1 >= level.size()){
-                    level.get(i).next = null;
-                }
-                else{
-                    level.get(i).next = level.get(i + 1);
-                }
-            }
-        }
-
         return root;
     }
 }
