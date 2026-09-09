@@ -14,9 +14,14 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0086-partition-list/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0001-two-sum/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0086-partition-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0086-partition-list/) | Medium |
 <!---LeetCode Topics End-->
