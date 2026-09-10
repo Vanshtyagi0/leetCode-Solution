@@ -31,12 +31,14 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +50,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
