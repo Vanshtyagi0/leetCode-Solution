@@ -27,13 +27,17 @@ class Solution {
 
         int[] left = helper(node.left);
         int[] right = helper(node.right);
+        int[] result = new int[2];
 
         
         int total = left[1] + right[1] + node.val;
         int n = left[0] + right[0] + 1;
 
         if(n != 0 && total / n == node.val) count++;
+        
 
-        return new int[]{n, total};
+        result[0] = left[0] +right[0] + 1;
+        result[1] = left[1] + right[1] + node.val;
+        return result;
     } 
 }
