@@ -28,6 +28,7 @@
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -67,6 +68,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | ------- | ------- |
 | [0148-sort-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0148-sort-list/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -109,4 +112,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 <!---LeetCode Topics End-->
