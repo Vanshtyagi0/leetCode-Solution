@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Hash Table
@@ -123,4 +124,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
