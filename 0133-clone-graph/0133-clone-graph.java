@@ -24,34 +24,25 @@ class Solution {
 
         Queue<Node> queue = new LinkedList<>();
         HashMap<Integer, Node> map = new HashMap<>();
-        List<Node> visited = new ArrayList<>();
-
 
         queue.offer(node);
-        visited.add(node);
+        map.put(node.val, new Node(node.val));
+
+        
         while(!queue.isEmpty()){
             Node curr = queue.poll();            
             List<Node> list = curr.neighbors;
 
-            if(!map.containsKey(curr.val)){
-                map.put(curr.val, new Node(curr.val));
-            }
 
-            List<Node> currNodeNeighbors = map.get(curr.val).neighbors;
+            List<Node> copyNodeNeighbors = map.get(curr.val).neighbors;
             for(Node neighbor : list){
                 if(!map.containsKey(neighbor.val)){
                     map.put(neighbor.val, new Node(neighbor.val));
+                    queue.offer(neighbor);
                 }
 
                 Node copyNeighbor = map.get(neighbor.val);
-                currNodeNeighbors.add(copyNeighbor);
-            }
-
-            for(Node neighbor : list){
-                if(!visited.contains(neighbor)){
-                    queue.offer(neighbor);
-                    visited.add(neighbor);
-                }
+                copyNodeNeighbors.add(copyNeighbor);
             }
         }
 
