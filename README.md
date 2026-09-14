@@ -102,6 +102,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0148-sort-list/) | Medium |
+| [0191-number-of-1-bits](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +129,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0191-number-of-1-bits](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 <!---LeetCode Topics End-->
