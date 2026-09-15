@@ -43,6 +43,7 @@
 | ------- | ------- |
 | [0086-partition-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0148-sort-list/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## DP on Trees
 | Problem Name | Difficulty |
@@ -176,4 +178,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
