@@ -16,6 +16,7 @@
 | [0133-clone-graph](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0146-lru-cache/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -37,6 +38,7 @@
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
@@ -87,6 +89,7 @@
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -146,6 +149,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -196,4 +200,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 <!---LeetCode Topics End-->
