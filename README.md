@@ -10,6 +10,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 | [3870-count-commas-in-range](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Hash Table
@@ -46,6 +47,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
+| [3525-find-x-value-of-array-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,4 +221,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
 <!---LeetCode Topics End-->
