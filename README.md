@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0133-clone-graph](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0146-lru-cache/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -40,6 +41,7 @@
 | [0001-two-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0001-two-sum/) | Easy |
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0130-surrounded-regions](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0130-surrounded-regions/) | Medium |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
@@ -99,6 +101,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -202,6 +205,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -232,4 +236,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
+## Brute-Force Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 <!---LeetCode Topics End-->
