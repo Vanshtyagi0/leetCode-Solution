@@ -26,6 +26,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3524-find-x-value-of-array-i](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -211,6 +213,7 @@
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Greedy
