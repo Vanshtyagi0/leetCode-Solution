@@ -46,6 +46,7 @@
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -91,6 +92,7 @@
 | [0130-surrounded-regions](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -106,6 +108,7 @@
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -272,4 +275,12 @@
 | ------- | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
