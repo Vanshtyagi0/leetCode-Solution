@@ -18,6 +18,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0133-clone-graph](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0133-clone-graph/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
@@ -219,6 +220,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
@@ -270,6 +272,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
