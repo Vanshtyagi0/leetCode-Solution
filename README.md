@@ -95,6 +95,7 @@
 | [0130-surrounded-regions](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0133-clone-graph/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Binary Tree
@@ -227,6 +228,7 @@
 | [0022-generate-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0856-score-of-parentheses/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -284,6 +286,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
