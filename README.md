@@ -8,6 +8,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3524-find-x-value-of-array-i](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3525-find-x-value-of-array-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3525-find-x-value-of-array-ii/) | Hard |
@@ -58,6 +59,7 @@
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -86,6 +88,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -117,6 +120,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -131,6 +135,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -153,6 +158,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +175,7 @@
 | [0191-number-of-1-bits](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -276,6 +283,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -305,6 +313,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Brute-Force Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,4 +369,12 @@
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
