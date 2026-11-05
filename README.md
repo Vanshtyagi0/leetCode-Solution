@@ -65,6 +65,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -183,6 +184,7 @@
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1672-richest-customer-wealth](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
