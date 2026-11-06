@@ -50,6 +50,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0001-two-sum/) | Easy |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0053-maximum-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0053-maximum-subarray/) | Medium |
 | [0130-surrounded-regions](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
@@ -231,6 +232,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0069-sqrtx/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
