@@ -35,6 +35,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
@@ -310,6 +311,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
