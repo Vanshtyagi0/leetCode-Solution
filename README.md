@@ -9,6 +9,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2409-count-days-spent-together](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
@@ -29,6 +30,7 @@
 | [0146-lru-cache](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0146-lru-cache/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -67,6 +69,7 @@
 | [1470-shuffle-the-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -430,4 +433,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 <!---LeetCode Topics End-->
