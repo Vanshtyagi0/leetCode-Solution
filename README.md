@@ -73,6 +73,7 @@
 | [1470-shuffle-the-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1499-max-value-of-equation](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1499-max-value-of-equation/) | Hard |
 | [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -275,6 +276,7 @@
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [1499-max-value-of-equation](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1499-max-value-of-equation/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Tournament Sort
 | Problem Name | Difficulty |
@@ -284,10 +286,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1499-max-value-of-equation](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1499-max-value-of-equation/) | Hard |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1499-max-value-of-equation](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1499-max-value-of-equation/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -343,6 +347,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1499-max-value-of-equation](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1499-max-value-of-equation/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
