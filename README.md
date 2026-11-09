@@ -29,6 +29,7 @@
 | [0139-word-break](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0139-word-break/) | Medium |
 | [0146-lru-cache](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0146-lru-cache/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
@@ -65,6 +66,7 @@
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1267-count-servers-that-communicate/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -216,6 +218,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -434,4 +437,8 @@
 | ------- | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
