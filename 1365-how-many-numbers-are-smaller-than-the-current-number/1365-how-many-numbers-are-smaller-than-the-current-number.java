@@ -1,14 +1,19 @@
 class Solution {
     public int[] smallerNumbersThanCurrent(int[] nums) {
         int n = nums.length;
-        int[] result = new int[n];
+        int[] freq = new int[101];
 
+        for(int num : nums){
+            freq[num]++;
+        }
+
+        for(int i = 1; i < 101; i++){
+            freq[i] += freq[i - 1];
+        }
+
+        int[] result = new int[n];
         for(int i = 0; i < n; i++){
-            int count = 0;
-            for(int j = 0; j < n; j++){
-                if(nums[j] < nums[i]) count++;
-            }
-            result[i] = count;
+            result[i] = nums[i] == 0 ? 0 : freq[nums[i] - 1];
         }
 
         return result;
