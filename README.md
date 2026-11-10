@@ -253,6 +253,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0069-sqrtx/) | Easy |
+| [0278-first-bad-version](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0278-first-bad-version/) | Easy |
 | [0300-longest-increasing-subsequence](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0374-guess-number-higher-or-lower](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -449,6 +450,7 @@
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0278-first-bad-version](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0278-first-bad-version/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
