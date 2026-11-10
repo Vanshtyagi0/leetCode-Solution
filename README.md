@@ -64,6 +64,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
@@ -258,6 +259,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0374-guess-number-higher-or-lower](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
