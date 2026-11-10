@@ -63,6 +63,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0322-coin-change/) | Medium |
 | [0414-third-maximum-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0414-third-maximum-number/) | Easy |
+| [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -105,6 +106,7 @@
 | ------- | ------- |
 | [0086-partition-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0086-partition-list/) | Medium |
 | [0148-sort-list](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0148-sort-list/) | Medium |
+| [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
@@ -199,6 +201,7 @@
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
+| [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1267-count-servers-that-communicate/) | Medium |
@@ -266,6 +269,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0191-number-of-1-bits](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0191-number-of-1-bits/) | Easy |
+| [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3644-maximum-k-to-sort-a-permutation/) | Medium |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3882-minimum-xor-path-in-a-grid/) | Medium |
@@ -356,6 +360,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
