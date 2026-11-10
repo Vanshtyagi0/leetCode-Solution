@@ -78,6 +78,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -314,6 +315,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1773-count-items-matching-a-rule](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2409-count-days-spent-together](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/2409-count-days-spent-together/) | Easy |
