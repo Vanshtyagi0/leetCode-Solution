@@ -68,6 +68,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
@@ -207,6 +208,7 @@
 | [0200-number-of-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0200-number-of-islands/) | Medium |
 | [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
+| [0885-spiral-matrix-iii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -368,6 +370,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+| [0885-spiral-matrix-iii](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
