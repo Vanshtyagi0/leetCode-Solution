@@ -9,6 +9,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0367-valid-perfect-square](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0367-valid-perfect-square/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0836-rectangle-overlap/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -68,6 +69,7 @@
 | [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
 | [0835-image-overlap](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0835-image-overlap/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1267-count-servers-that-communicate](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1267-count-servers-that-communicate/) | Medium |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -366,6 +368,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/0832-flipping-an-image/) | Easy |
+| [1252-cells-with-odd-values-in-a-matrix](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1252-cells-with-odd-values-in-a-matrix/) | Easy |
 | [1389-create-target-array-in-the-given-order](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1389-create-target-array-in-the-given-order/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/1929-concatenation-of-array/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Vanshtyagi0/leetCode-Solution/tree/main/3498-reverse-degree-of-a-string/) | Easy |
